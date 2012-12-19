@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEANASUS</Machine>
+    <WindowsUser>Sean</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>40EE97C1E66D72F833E04600DD73A9DD6900756951BF6E0175E7F07321F0A0D5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19006f76-3727-4889-8b81-204c4d8126c7_1.0.0.0_neutral__e0gb3t4ba2k4g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19006f76-3727-4889-8b81-204c4d8126c7_e0gb3t4ba2k4g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19006f76-3727-4889-8b81-204c4d8126c7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sean</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T00:48:58.051</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\Randoraunt.exe">
+      <PackagePath>Randoraunt.exe</PackagePath>
+      <Modified>2012-09-22T01:05:22.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\Randoraunt.pdb">
+      <PackagePath>Randoraunt.pdb</PackagePath>
+      <Modified>2012-09-22T01:05:22.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-22T00:44:51.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-22T01:05:19.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\Randoraunt\Randoraunt\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-22T00:48:57.426</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

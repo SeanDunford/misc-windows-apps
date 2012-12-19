@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+
+  <Identity Name="691ebdbc-8b64-469d-904b-f6ce24fff74f"
+            Publisher="CN=Sean"
+            Version="1.0.0.0" />
+
+  <Properties>
+    <DisplayName>adsfasdfasdf</DisplayName>
+    <PublisherDisplayName>Sean</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+        Executable="$targetnametoken$.exe"
+        EntryPoint="adsfasdfasdf.App">
+        <VisualElements
+            DisplayName="adsfasdfasdf"
+            Logo="Assets\Logo.png"
+            SmallLogo="Assets\SmallLogo.png"
+            Description="adsfasdfasdf"
+            ForegroundText="light"
+            BackgroundColor="#464646">
+            <DefaultTile ShowName="allLogos" />
+            <SplashScreen Image="Assets\SplashScreen.png" />
+        </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

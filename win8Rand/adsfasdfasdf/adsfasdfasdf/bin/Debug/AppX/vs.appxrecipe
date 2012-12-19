@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEANASUS</Machine>
+    <WindowsUser>Sean</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4B5182F2BDDD098E4A906D0F120AB33356C54E6A0C47FE842A9B306A140687D2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>691ebdbc-8b64-469d-904b-f6ce24fff74f_1.0.0.0_neutral__e0gb3t4ba2k4g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>691ebdbc-8b64-469d-904b-f6ce24fff74f_e0gb3t4ba2k4g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>691ebdbc-8b64-469d-904b-f6ce24fff74f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sean</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-01T22:44:13.555</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\adsfasdfasdf.exe">
+      <PackagePath>adsfasdfasdf.exe</PackagePath>
+      <Modified>2012-11-01T22:44:12.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\adsfasdfasdf.pdb">
+      <PackagePath>adsfasdfasdf.pdb</PackagePath>
+      <Modified>2012-11-01T22:44:12.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2012-11-01T22:40:34.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-01T22:36:45.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-01T22:36:27.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-01T22:43:54.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\Controls\DataVisualization\Resources.resx">
+      <PackagePath>Controls\DataVisualization\Resources.resx</PackagePath>
+      <Modified>2012-11-01T22:40:34.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\RotatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\RotatingContainer.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\AxisLabel.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\AxisLabel.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\DateTimeAxisLabel.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\DateTimeAxisLabel.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\DisplayAxis.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\DisplayAxis.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\NumericAxisLabel.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\NumericAxisLabel.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\RangeAxis.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Axis\RangeAxis.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Chart\Chart.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Chart\Chart.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\AreaDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\AreaDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\BarDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\BarDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\BubbleDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\BubbleDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\ColumnDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\ColumnDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\LineDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\LineDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\PieDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\PieDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\ScatterDataPoint.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\DataPoint\ScatterDataPoint.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Primitives\DelegatingListBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Primitives\DelegatingListBox.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\AreaSeries.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\AreaSeries.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\DataPointSeries.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\DataPointSeries.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\DefinitionSeries.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\DefinitionSeries.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\LegendItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\LegendItem.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\LineSeries.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\LineSeries.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\PieSeries.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Charting\Series\PieSeries.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Legend\Legend.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Legend\Legend.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Themes\Generic.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Controls\DataVisualization\Title\Title.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DataVisualization\Title\Title.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\packages\winrtxamltoolkit.1.3.4\lib\winrt45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+      <Modified>2012-11-01T22:40:34.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\win8Rand\adsfasdfasdf\adsfasdfasdf\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-01T22:44:13.007</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
