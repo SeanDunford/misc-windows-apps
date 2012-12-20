@@ -2,6 +2,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
+//http://stackoverflow.com/questions/5041457/cannot-load-a-spritefont-in-xna4
+
+
 namespace OhMuhGawwVidjaGames
 {
     /// <summary>
