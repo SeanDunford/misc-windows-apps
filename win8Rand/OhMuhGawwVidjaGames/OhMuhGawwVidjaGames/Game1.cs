@@ -48,8 +48,9 @@ namespace OhMuhGawwVidjaGames
             _ball.AttachTo(playerPaddle);
 
            // Score Creation
-           //  var sF = Content.Load<SpriteFont>("SpriteFont1"); 
+           //SpriteFont sF = Content.Load<SpriteFont>("font.xnb"); 
            //score = new Score(sF, gameBoundaries ); 
+            
 
             gameObjects = new GameObjects { PlayerPaddle = playerPaddle, ComputerPaddle = computerPaddle, Ball = _ball ,Score = score}; 
             //Aggregate reference to all game objects
