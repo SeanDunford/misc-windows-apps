@@ -89,6 +89,9 @@
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\paddle.png">
       <PackagePath>Content\paddle.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\Music.mp3">
+      <PackagePath>Content\Music.mp3</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>

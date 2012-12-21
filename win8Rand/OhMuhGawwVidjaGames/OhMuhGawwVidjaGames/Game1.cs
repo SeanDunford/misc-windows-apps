@@ -1,6 +1,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 using System;
 
 //http://stackoverflow.com/questions/5041457/cannot-load-a-spritefont-in-xna4
@@ -56,6 +57,9 @@ namespace OhMuhGawwVidjaGames
 
            //Aggregate reference to all game objects
             gameObjects = new GameObjects { PlayerPaddle = playerPaddle, ComputerPaddle = computerPaddle, Ball = _ball ,Score = _score}; 
+
+            //Play Music
+            MediaPlayer.Play(Content.Load<Song>("Music"));
             
         }
         protected override void UnloadContent()
