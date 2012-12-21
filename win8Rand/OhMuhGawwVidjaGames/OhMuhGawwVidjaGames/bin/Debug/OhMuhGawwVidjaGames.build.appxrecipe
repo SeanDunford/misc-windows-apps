@@ -64,6 +64,9 @@
     <AppxPackagedFile Include="C:\Program Files\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.xml">
       <PackagePath>SharpDX.XInput.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\font.xnb">
+      <PackagePath>Content\font.xnb</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

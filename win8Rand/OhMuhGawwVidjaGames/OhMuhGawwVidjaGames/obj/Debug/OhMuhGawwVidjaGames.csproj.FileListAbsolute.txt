@@ -41,3 +41,8 @@ Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGame
 Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\pri.resfiles
 Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\LanguageQualifiers.txt
 Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\ProjectArchitectures.txt
+Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\priconfig.xml.intermediate
+Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\layout.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\resources.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\obj\Debug\pri.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\Content\font.xnb

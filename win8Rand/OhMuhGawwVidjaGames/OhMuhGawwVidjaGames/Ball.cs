@@ -44,13 +44,13 @@ namespace OhMuhGawwVidjaGames
                 else if (boundingBox.Intersects(gameObjects.PlayerPaddle.boundingBox))
                     {
 
-                        Velocity = new Vector2(-Velocity.X, gameObjects.PlayerPaddle.Velocity.Y *.75f);
+                        Velocity = new Vector2(-Velocity.X, ((gameObjects.PlayerPaddle.Velocity.Y *.75f) + Velocity.Y * .5f));
                     }
 
                 else if( boundingBox.Intersects(gameObjects.ComputerPaddle.boundingBox))
                        {
 
-                           Velocity = new Vector2(-Velocity.X - hitCount , gameObjects.ComputerPaddle.Velocity.Y * .75f );
+                           Velocity = new Vector2(-Velocity.X - hitCount, ((gameObjects.ComputerPaddle.Velocity.Y * .75f) + Velocity.Y * .5f));
                            hitCount = hitCount + 0.1f; 
                     }
                 base.Update(gameTime, gameObjects);

@@ -1,6 +1,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System;
 
 //http://stackoverflow.com/questions/5041457/cannot-load-a-spritefont-in-xna4
 
@@ -13,23 +14,22 @@ namespace OhMuhGawwVidjaGames
     public class Game1 : Game
     {
 
-        GraphicsDeviceManager _graphics;
-        SpriteBatch _spriteBatch;
+        private GraphicsDeviceManager _graphics;
+        private SpriteBatch _spriteBatch;
 
         private GameObjects gameObjects; 
         private Paddle playerPaddle;
         private Paddle computerPaddle; 
         private Ball _ball;
-        private Score score; 
-
+        private Score _score; 
         private Rectangle gameBoundaries; 
+
 
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
-
         protected override void Initialize() //non Graphic initialization needed before game loads
         {
             IsMouseVisible = true;   
@@ -51,12 +51,12 @@ namespace OhMuhGawwVidjaGames
             _ball.AttachTo(playerPaddle);
 
            // Score Creation
-           //SpriteFont sF = Content.Load<SpriteFont>("font.xnb"); 
-           //score = new Score(sF, gameBoundaries ); 
-            
+           SpriteFont sF = Content.Load<SpriteFont>("font"); 
+           _score = new Score(sF, gameBoundaries );
 
-            gameObjects = new GameObjects { PlayerPaddle = playerPaddle, ComputerPaddle = computerPaddle, Ball = _ball ,Score = score}; 
-            //Aggregate reference to all game objects
+           //Aggregate reference to all game objects
+            gameObjects = new GameObjects { PlayerPaddle = playerPaddle, ComputerPaddle = computerPaddle, Ball = _ball ,Score = _score}; 
+            
         }
         protected override void UnloadContent()
         {
@@ -73,15 +73,28 @@ namespace OhMuhGawwVidjaGames
             {
                 _ball.Location = Vector2.Zero; 
                 _ball.AttachTo(playerPaddle);
+                gameObjects.Score.gameOver = false; 
             }
-
-            playerPaddle.Update(gameTime, gameObjects);
-            computerPaddle.Update(gameTime, gameObjects);
-            _ball.Update(gameTime, gameObjects);
-
+            else if (gameObjects.Score.PlayerScore > 5 && gameObjects.Score.gameOver == false)
+            {
+                gameObjects.Score.PlayerWin();
+                gameObjects.Score.gameOver = true; 
+            }
+            else if (gameObjects.Score.ComputerScore > 5 && gameObjects.Score.gameOver == false)
+            {
+                gameObjects.Score.ComputerWin();
+                gameObjects.Score.gameOver = true; 
+            }
+            else if (gameObjects.Score.gameOver == true)
+            {
+                playerPaddle.Update(gameTime, gameObjects);
+                computerPaddle.Update(gameTime, gameObjects);
+                _ball.Update(gameTime, gameObjects);
+                _score.Update(gameTime, gameObjects);
+            }
             base.Update(gameTime);
         }
-        //Draw graphocs on the screen
+        //Draw graphics on the screen
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
@@ -91,7 +104,7 @@ namespace OhMuhGawwVidjaGames
             playerPaddle.Draw(_spriteBatch);
             _ball.Draw(_spriteBatch);
             computerPaddle.Draw(_spriteBatch);
-           //Finter score.Draw(_spriteBatch); 
+           _score.Draw(_spriteBatch); 
             _spriteBatch.End();
             //Must End
             base.Draw(gameTime);

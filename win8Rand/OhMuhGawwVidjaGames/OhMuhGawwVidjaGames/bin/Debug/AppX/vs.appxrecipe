@@ -16,17 +16,17 @@
     <AppXManifest Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-12-20T04:13:39.346</Modified>
+      <Modified>2012-12-21T18:36:50.180</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.exe">
       <PackagePath>OhMuhGawwVidjaGames.exe</PackagePath>
-      <Modified>2012-12-20T04:38:24.633</Modified>
+      <Modified>2012-12-21T20:03:35.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.pdb">
       <PackagePath>OhMuhGawwVidjaGames.pdb</PackagePath>
-      <Modified>2012-12-20T04:38:24.605</Modified>
+      <Modified>2012-12-21T20:03:35.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
       <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
@@ -88,6 +88,10 @@
       <PackagePath>SharpDX.XInput.xml</PackagePath>
       <Modified>2012-08-18T19:05:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\font.xnb">
+      <PackagePath>Content\font.xnb</PackagePath>
+      <Modified>2012-12-10T01:35:45.350</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -130,7 +134,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-12-20T04:13:38.010</Modified>
+      <Modified>2012-12-21T18:19:59.430</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

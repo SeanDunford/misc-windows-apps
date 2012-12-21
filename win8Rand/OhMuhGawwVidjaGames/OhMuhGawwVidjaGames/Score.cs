@@ -2,12 +2,14 @@
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using System;
 namespace OhMuhGawwVidjaGames
 {
     public class Score
     {
         private readonly SpriteFont font; 
         private readonly Rectangle gameBoundaries;
+        public Boolean gameOver = false; 
 
         public int PlayerScore { get; set; }
         public int ComputerScore { get; set; }
@@ -24,6 +26,36 @@ namespace OhMuhGawwVidjaGames
             var Position = new Vector2(xPosition, gameBoundaries.Height - 100);
 
             spriteBatch.DrawString(font, scoreText, Position, Color.White); 
+        }
+        public void Update(GameTime gameTime, GameObjects gameObjects)
+        {
+            if (gameObjects.Ball.Location.X + gameObjects.Ball.Width < 0)
+            {
+                ComputerScore++;
+                gameObjects.Ball.AttachTo(gameObjects.PlayerPaddle);
+            } 
+            else if (gameObjects.Ball.Location.X > gameBoundaries.Width)
+            {
+                PlayerScore++;
+                gameObjects.Ball.AttachTo(gameObjects.PlayerPaddle);
+            }
+        }
+        public void PlayerWin()
+        {
+
+        }
+        public void ComputerWin()
+        {
+
+        }
+        public void DrawWinner(SpriteBatch spriteBatch, bool didPlayerBeatComputer)
+        {
+            
+            var scoreText = string.Format("{0}:{1}", PlayerScore, ComputerScore);
+            var xPosition = ((gameBoundaries.Width / 2) - (font.MeasureString(scoreText).X / 2));
+            var Position = new Vector2(xPosition, gameBoundaries.Height - 100);
+
+            spriteBatch.DrawString(font, scoreText, Position, Color.White);
         }
     }
 }
