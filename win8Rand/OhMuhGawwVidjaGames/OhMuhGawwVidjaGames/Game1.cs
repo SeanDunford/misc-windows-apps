@@ -59,7 +59,7 @@ namespace OhMuhGawwVidjaGames
             gameObjects = new GameObjects { PlayerPaddle = playerPaddle, ComputerPaddle = computerPaddle, Ball = _ball ,Score = _score}; 
 
             //Play Music
-            MediaPlayer.Play(Content.Load<Song>("Music"));
+            //MediaPlayer.Play(Content.Load<Song>("Music"));
             
         }
         protected override void UnloadContent()

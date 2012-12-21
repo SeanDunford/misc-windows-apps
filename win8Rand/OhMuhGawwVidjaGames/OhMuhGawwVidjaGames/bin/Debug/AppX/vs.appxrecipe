@@ -16,17 +16,17 @@
     <AppXManifest Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-12-21T21:43:15.915</Modified>
+      <Modified>2012-12-21T23:08:55.744</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.exe">
       <PackagePath>OhMuhGawwVidjaGames.exe</PackagePath>
-      <Modified>2012-12-21T21:43:15.719</Modified>
+      <Modified>2012-12-21T23:47:36.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.pdb">
       <PackagePath>OhMuhGawwVidjaGames.pdb</PackagePath>
-      <Modified>2012-12-21T21:43:15.692</Modified>
+      <Modified>2012-12-21T23:47:36.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
       <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
@@ -138,7 +138,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-12-21T21:43:15.799</Modified>
+      <Modified>2012-12-21T23:08:55.598</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
