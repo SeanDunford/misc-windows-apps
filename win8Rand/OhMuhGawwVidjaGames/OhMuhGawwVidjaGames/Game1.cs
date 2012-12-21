@@ -85,7 +85,7 @@ namespace OhMuhGawwVidjaGames
                 gameObjects.Score.ComputerWin();
                 gameObjects.Score.gameOver = true; 
             }
-            else if (gameObjects.Score.gameOver == true)
+            else if (gameObjects.Score.gameOver == false)
             {
                 playerPaddle.Update(gameTime, gameObjects);
                 computerPaddle.Update(gameTime, gameObjects);
