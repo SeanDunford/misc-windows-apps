@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.exe">
       <PackagePath>OhMuhGawwVidjaGames.exe</PackagePath>
-      <Modified>2012-12-21T21:14:34.114</Modified>
+      <Modified>2012-12-21T21:32:19.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.pdb">
       <PackagePath>OhMuhGawwVidjaGames.pdb</PackagePath>
-      <Modified>2012-12-21T21:14:34.087</Modified>
+      <Modified>2012-12-21T21:32:19.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
       <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
@@ -114,11 +114,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\ball.png">
       <PackagePath>Content\ball.png</PackagePath>
-      <Modified>2012-12-09T17:59:34.570</Modified>
+      <Modified>2012-12-21T21:30:39.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\Content\paddle.png">
       <PackagePath>Content\paddle.png</PackagePath>
-      <Modified>2012-12-09T17:59:42.442</Modified>
+      <Modified>2012-12-21T21:31:16.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
