@@ -71,18 +71,23 @@ namespace OhMuhGawwVidjaGames
             }
             else if (Keyboard.GetState().IsKeyDown(Keys.R))
             {
+                gameObjects.Score.PlayerScore = 0;
+                gameObjects.Score.ComputerScore = 0; 
+                gameObjects.Score.gameOver = false; 
                 _ball.Location = Vector2.Zero; 
                 _ball.AttachTo(playerPaddle);
-                gameObjects.Score.gameOver = false; 
+                
             }
             else if (gameObjects.Score.PlayerScore > 5 && gameObjects.Score.gameOver == false)
             {
-                gameObjects.Score.PlayerWin();
+                
+                gameObjects.Score.didThePlayerWin = true; 
                 gameObjects.Score.gameOver = true; 
             }
             else if (gameObjects.Score.ComputerScore > 5 && gameObjects.Score.gameOver == false)
             {
-                gameObjects.Score.ComputerWin();
+               
+                gameObjects.Score.didThePlayerWin = false; 
                 gameObjects.Score.gameOver = true; 
             }
             else if (gameObjects.Score.gameOver == false)
@@ -97,16 +102,27 @@ namespace OhMuhGawwVidjaGames
         //Draw graphics on the screen
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
-           
+            GraphicsDevice.Clear(Color.Turquoise);
             _spriteBatch.Begin();
             //Must Begin
             playerPaddle.Draw(_spriteBatch);
             _ball.Draw(_spriteBatch);
             computerPaddle.Draw(_spriteBatch);
-           _score.Draw(_spriteBatch); 
-            _spriteBatch.End();
+            _score.Draw(_spriteBatch);
+            if (gameObjects.Score.gameOver == false)
+            {    
+
+            }
+            else if (gameObjects.Score.didThePlayerWin == true)
+            {
+                gameObjects.Score.PlayerWin(_spriteBatch);
+            }
+            else
+            {
+                gameObjects.Score.ComputerWin(_spriteBatch);
+            }
             //Must End
+            _spriteBatch.End();
             base.Draw(gameTime);
         }
     }

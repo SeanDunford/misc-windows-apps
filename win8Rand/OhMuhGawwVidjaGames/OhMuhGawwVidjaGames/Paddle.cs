@@ -25,7 +25,7 @@ namespace OhMuhGawwVidjaGames
                 {
                     //AI ...no robin williams
                     var random = new Random();
-                    var reactionThreshold = random.Next(0, 25);
+                    var reactionThreshold = random.Next(600, 1250);//edit for computer difficulty
 
 
                     if ((gameObjects.Ball.Location.Y + gameObjects.Ball.Height / 2) == (Location.Y + Height / 2))

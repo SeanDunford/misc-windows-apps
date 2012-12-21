@@ -9,7 +9,8 @@ namespace OhMuhGawwVidjaGames
     {
         private readonly SpriteFont font; 
         private readonly Rectangle gameBoundaries;
-        public Boolean gameOver = false; 
+        public Boolean gameOver = false;
+        public Boolean didThePlayerWin = false; 
 
         public int PlayerScore { get; set; }
         public int ComputerScore { get; set; }
@@ -40,22 +41,29 @@ namespace OhMuhGawwVidjaGames
                 gameObjects.Ball.AttachTo(gameObjects.PlayerPaddle);
             }
         }
-        public void PlayerWin()
+        public void PlayerWin(SpriteBatch spriteBatch)
         {
+            var YouWon = "OhMUHGawww!!!!1!!!! You Won!";
+            var restart = "Press R to (R)estart"; 
+            var xPositionYouWon = ((gameBoundaries.Width / 2) - (font.MeasureString(YouWon).X / 2));
+            var xPosition2Restart = ((gameBoundaries.Width / 2) - (font.MeasureString(restart).X / 2));
+            var PositionYouWon = new Vector2(xPositionYouWon, gameBoundaries.Height / 2);
+            var PositionRestart = new Vector2(xPosition2Restart, (gameBoundaries.Height / 2) + 200);
 
+            spriteBatch.DrawString(font, YouWon, PositionYouWon, Color.Purple);
+            spriteBatch.DrawString(font, restart, PositionRestart, Color.Purple);
         }
-        public void ComputerWin()
+        public void ComputerWin(SpriteBatch spriteBatch)
         {
+            var Sorry = "Sorry Bruh :( you lost";
+            var restart = "Press R to (R)estart";
+            var xPositionYouWon = ((gameBoundaries.Width / 2) - (font.MeasureString(Sorry).X / 2));
+            var xPosition2Restart = ((gameBoundaries.Width / 2) - (font.MeasureString(restart).X / 2));
+            var PositionYouWon = new Vector2(xPositionYouWon, gameBoundaries.Height / 2);
+            var PositionRestart = new Vector2(xPosition2Restart, (gameBoundaries.Height / 2) + 200);
 
-        }
-        public void DrawWinner(SpriteBatch spriteBatch, bool didPlayerBeatComputer)
-        {
-            
-            var scoreText = string.Format("{0}:{1}", PlayerScore, ComputerScore);
-            var xPosition = ((gameBoundaries.Width / 2) - (font.MeasureString(scoreText).X / 2));
-            var Position = new Vector2(xPosition, gameBoundaries.Height - 100);
-
-            spriteBatch.DrawString(font, scoreText, Position, Color.White);
+            spriteBatch.DrawString(font, Sorry, PositionYouWon, Color.Purple);
+            spriteBatch.DrawString(font, restart, PositionRestart, Color.Purple);
         }
     }
 }

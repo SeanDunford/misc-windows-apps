@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.exe">
       <PackagePath>OhMuhGawwVidjaGames.exe</PackagePath>
-      <Modified>2012-12-21T20:16:03.443</Modified>
+      <Modified>2012-12-21T21:14:34.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\win8Rand\OhMuhGawwVidjaGames\OhMuhGawwVidjaGames\bin\Debug\OhMuhGawwVidjaGames.pdb">
       <PackagePath>OhMuhGawwVidjaGames.pdb</PackagePath>
-      <Modified>2012-12-21T20:16:03.416</Modified>
+      <Modified>2012-12-21T21:14:34.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
       <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
