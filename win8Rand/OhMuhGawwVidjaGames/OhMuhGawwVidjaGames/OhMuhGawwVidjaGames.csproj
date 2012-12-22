@@ -153,6 +153,7 @@
     <None Include="OhMuhGawwVidjaGames_StoreKey.pfx" />
     <None Include="Package.StoreAssociation.xml" />
     <None Include="OhMuhGawwVidjaGames_TemporaryKey.pfx" />
+    <Content Include="Content\620300SPLASH.png" />
     <Content Include="Content\font.xnb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -163,6 +164,10 @@
     <Content Include="Assets\SplashScreen.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Content\ball.png" />
+    <Content Include="Content\logo150150.png" />
+    <Content Include="Content\logo2424.png" />
+    <Content Include="Content\logo3030.png" />
+    <Content Include="Content\logo310150.png" />
     <Content Include="Content\Music.mp3" />
     <Content Include="Content\paddle.png" />
   </ItemGroup>
