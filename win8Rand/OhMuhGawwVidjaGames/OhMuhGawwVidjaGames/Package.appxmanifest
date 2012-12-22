@@ -1,39 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-
-  <Identity Name="df89250e-642f-4975-8f34-5f2c6119d335"
-            Publisher="CN=Sean"
-            Version="1.0.0.0" />
-
+  <Identity Name="22441SeanDunford.MayanPong" Publisher="CN=B5769CF2-7EBD-4609-A847-2091A447EABB" Version="1.1.1.0" />
   <Properties>
-    <DisplayName>OhMuhGawwVidjaGames</DisplayName>
-    <PublisherDisplayName>Sean</PublisherDisplayName>
+    <DisplayName>Mayan Pong</DisplayName>
+    <PublisherDisplayName>Sean_Dunford</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
-
   <Prerequisites>
     <OSMinVersion>6.2.1</OSMinVersion>
     <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
   </Prerequisites>
-
   <Resources>
-    <Resource Language="x-generate"/>
+    <Resource Language="x-generate" />
   </Resources>
-
   <Applications>
-    <Application Id="App"
-        Executable="$targetnametoken$.exe"
-        EntryPoint="OhMuhGawwVidjaGames.App">
-        <VisualElements
-            DisplayName="OhMuhGawwVidjaGames"
-            Logo="Assets\Logo.png"
-            SmallLogo="Assets\SmallLogo.png"
-            Description="OhMuhGawwVidjaGames"
-            ForegroundText="light"
-            BackgroundColor="#464646">
-            <DefaultTile ShowName="allLogos" />
-            <SplashScreen Image="Assets\SplashScreen.png" />
-        </VisualElements>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="OhMuhGawwVidjaGames.App">
+      <VisualElements DisplayName="Mayan Pong" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="OhMuhGawwVidjaGames" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
     </Application>
   </Applications>
   <Capabilities>
