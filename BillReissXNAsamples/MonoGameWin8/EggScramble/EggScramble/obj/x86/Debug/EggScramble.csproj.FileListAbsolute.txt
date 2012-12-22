@@ -1,0 +1,96 @@
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.exe
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.pdb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\resources.pri
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\AppxManifest.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.build.appxrecipe
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\MonoGame.Framework.Windows8.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.g.i.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.g.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.g.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.xaml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.xaml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.exe
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.pdb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\en\SharpDX.Properties.Resources.resw
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.csproj.GenerateResource.Cache
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX.pri
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\priconfig.xml
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\layout.resfiles
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\resources.resfiles
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\pri.resfiles
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.csprojResolveAssemblyReference.cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.exe
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.pdb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\resources.pri
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\AppxManifest.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.build.appxrecipe
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\MonoGame.Framework.Windows8.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct2D1.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct3D11.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XAudio2.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.DXGI.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XInput.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct2D1.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.Direct3D11.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XAudio2.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.DXGI.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\SharpDX.XInput.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.csprojResolveAssemblyReference.cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.g.i.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.g.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.g.i.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.g.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.g.i.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.g.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\XamlTypeInfo.g.cs
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\App.xaml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\Common\StandardStyles.xaml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\GamePage.xaml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.exe
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.pdb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\en\SharpDX.Properties.Resources.resw
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\EggScramble.csproj.GenerateResource.Cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\priconfig.xml.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\Resources.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX.pri
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\priconfig.xml.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\layout.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\resources.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\pri.resfiles.intermediate
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\priconfig.xml
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\layout.resfiles
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\resources.resfiles
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\pri.resfiles
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\LanguageQualifiers.txt
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\obj\x86\Debug\ProjectArchitectures.txt

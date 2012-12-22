@@ -1,0 +1,15 @@
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\StandardStyles.xaml
+GamePage.xaml
+Content\bricks.xnb
+Content\chicken.xnb
+Content\dog.xnb
+Content\egg.xnb
+Content\gameOverFont.xnb
+Content\ground.xnb
+Content\scoreFont.xnb
+Content\sky.xnb

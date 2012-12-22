@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="fba289ca-8278-4f8a-bf5f-dc5ec838ba8a" Publisher="CN=Bob" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>TicTacToe</DisplayName>
+    <PublisherDisplayName>Looks Familiar Software</PublisherDisplayName>
+    <Logo>Assets\TicTacToeStorelogo.png</Logo>
+    <Description>TicTacToe</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TicTacToe.App">
+      <VisualElements DisplayName="Tic Tac Toe" Logo="Assets\TicTacToeLogo.png" SmallLogo="Assets\TicTacToeSmallLogo.png" Description="2 player tic tac toe well suited for youngsters." ForegroundText="light" BackgroundColor="#ffffff">
+        <DefaultTile ShortName="Tic Tac Toe" WideLogo="Assets\TicTacToeWideLogo.png" ShowName="noLogos" />
+        <SplashScreen Image="Assets\LooksFamiliarSplash.png" BackgroundColor="#FFFFFF" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

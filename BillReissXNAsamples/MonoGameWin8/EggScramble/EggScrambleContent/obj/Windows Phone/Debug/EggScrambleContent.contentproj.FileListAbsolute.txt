@@ -1,0 +1,2 @@
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleContent\obj\Windows Phone\Debug\EggScrambleContent.contentprojResolveAssemblyReference.cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleContent\obj\Windows Phone\Debug\EggScrambleContent.contentprojResolveAssemblyReference.cache

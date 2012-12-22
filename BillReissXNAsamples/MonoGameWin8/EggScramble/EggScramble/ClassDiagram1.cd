@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EggScramble.Chicken" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAEAAA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\Chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.Dog" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAEIAAACAAApAAAAABAAAAAIAAAAAEAAAAAAAAAQA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.Egg" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\Egg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.Game1" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggQAkMAAkCACAwAAAAAIAAABBAEBgAgABBEEIAAAAJQ=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.FormattedValue" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\FormattedValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.Sprite" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAggAgAAAAAAABAAAAAAAAAAIAAAAIAAA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EggScramble.ScaledSpriteBatch" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEABAAAgAAAAAAAAAAAAAAEAAIAAAAAAIAgAA=</HashCode>
+      <FileName>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\CommonXNAMonoGame\EggScramble\ScaledSpriteBatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

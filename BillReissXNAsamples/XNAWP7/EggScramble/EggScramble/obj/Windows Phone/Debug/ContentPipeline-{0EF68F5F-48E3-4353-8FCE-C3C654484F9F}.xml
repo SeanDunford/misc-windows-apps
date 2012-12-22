@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bricks_phone.png</Source>
+      <Name>bricks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\bricks.xnb</Output>
+      <Time>2012-12-16T19:14:00.7574557-05:00</Time>
+    </Item>
+    <Item>
+      <Source>chicken_phone.png</Source>
+      <Name>chicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\chicken.xnb</Output>
+      <Time>2012-12-16T19:25:45.5826349-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dog_phone.png</Source>
+      <Name>dog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\dog.xnb</Output>
+      <Time>2012-12-16T19:25:46.1297114-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.png</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\ground.xnb</Output>
+      <Time>2012-12-16T19:27:49.1096201-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.png</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\sky.xnb</Output>
+      <Time>2012-12-16T19:27:49.1126203-05:00</Time>
+    </Item>
+    <Item>
+      <Source>egg_phone.png</Source>
+      <Name>egg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\egg.xnb</Output>
+      <Time>2012-12-16T19:44:05.5919528-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreFont.spritefont</Source>
+      <Name>scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\scoreFont.xnb</Output>
+      <Time>2012-12-17T19:07:22.1035369-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverFont.spritefont</Source>
+      <Name>gameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\gameOverFont.xnb</Output>
+      <Time>2012-12-17T20:00:04.7295081-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0EF68F5F-48E3-4353-8FCE-C3C654484F9F}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScrambleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\XNAWP7\EggScramble\EggScramble\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-06T22:16:52.7871987-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

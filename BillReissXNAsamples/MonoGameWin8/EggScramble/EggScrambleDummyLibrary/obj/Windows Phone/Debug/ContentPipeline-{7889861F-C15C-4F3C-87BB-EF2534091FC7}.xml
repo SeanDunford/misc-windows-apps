@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bricks.png</Source>
+      <Name>bricks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\bricks.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>chicken.png</Source>
+      <Name>chicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\chicken.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dog.png</Source>
+      <Name>dog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\dog.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>egg.png</Source>
+      <Name>egg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\egg.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.png</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\ground.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.png</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\sky.xnb</Output>
+      <Time>2012-12-17T21:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverFont.spritefont</Source>
+      <Name>gameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\gameOverFont.xnb</Output>
+      <Time>2012-12-18T09:43:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreFont.spritefont</Source>
+      <Name>scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\scoreFont.xnb</Output>
+      <Time>2012-12-18T09:43:38-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7889861F-C15C-4F3C-87BB-EF2534091FC7}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T18:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-28T09:02:21.945304-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

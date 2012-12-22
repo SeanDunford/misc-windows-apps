@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEANLAPPYTAPPY</Machine>
+    <WindowsUser>Sean</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.exe">
+      <PackagePath>EggScramble.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\EggScramble.pdb">
+      <PackagePath>EggScramble.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
+      <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.xml">
+      <PackagePath>SharpDX.Direct2D1.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.xml">
+      <PackagePath>SharpDX.MediaFoundation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.xml">
+      <PackagePath>SharpDX.XAudio2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.xml">
+      <PackagePath>SharpDX.XInput.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\bricks.xnb">
+      <PackagePath>Content\bricks.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\chicken.xnb">
+      <PackagePath>Content\chicken.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\dog.xnb">
+      <PackagePath>Content\dog.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\egg.xnb">
+      <PackagePath>Content\egg.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\gameOverFont.xnb">
+      <PackagePath>Content\gameOverFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\ground.xnb">
+      <PackagePath>Content\ground.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\scoreFont.xnb">
+      <PackagePath>Content\scoreFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\sky.xnb">
+      <PackagePath>Content\sky.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScramble\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

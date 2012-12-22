@@ -1,0 +1,28 @@
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\bricks.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\chicken.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\dog.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\egg.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\ground.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\sky.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\gameOverFont.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\scoreFont.xnb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleDummyLibrary.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleDummyLibrary.pdb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.dll
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.pdb
+C:\Users\billr_000\Documents\Visual Studio 2012\Projects\TampaWinterGames\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.csprojResolveAssemblyReference.cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\bricks.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\chicken.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\dog.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\egg.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\ground.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\sky.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\gameOverFont.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleContent\scoreFont.xnb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleDummyLibrary.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\bin\Windows Phone\Debug\EggScrambleDummyLibrary.pdb
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.csprojResolveAssemblyReference.cache
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.dll
+Z:\GitProjects\misc-windows-apps\BillReissXNAsamples\MonoGameWin8\EggScramble\EggScrambleDummyLibrary\obj\Windows Phone\Debug\EggScrambleDummyLibrary.pdb

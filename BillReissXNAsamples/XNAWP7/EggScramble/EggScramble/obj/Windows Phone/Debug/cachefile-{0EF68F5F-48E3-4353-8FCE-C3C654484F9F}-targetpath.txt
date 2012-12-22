@@ -1,0 +1,8 @@
+Content\bricks.xnb
+Content\chicken.xnb
+Content\dog.xnb
+Content\ground.xnb
+Content\sky.xnb
+Content\egg.xnb
+Content\scoreFont.xnb
+Content\gameOverFont.xnb

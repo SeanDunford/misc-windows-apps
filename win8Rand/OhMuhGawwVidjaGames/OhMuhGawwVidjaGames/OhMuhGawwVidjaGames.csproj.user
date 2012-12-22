@@ -4,8 +4,11 @@
     <UseSimulator>True</UseSimulator>
   </PropertyGroup>
   <PropertyGroup>
-    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxShowAllApps>True</AppxShowAllApps>
     <AppxPackageIsForStore>True</AppxPackageIsForStore>
-    <AppxBuildConfigurationSelection>neutral|x86|x64|arm</AppxBuildConfigurationSelection>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <UseSimulator>False</UseSimulator>
   </PropertyGroup>
 </Project>

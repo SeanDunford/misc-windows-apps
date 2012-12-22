@@ -11,6 +11,7 @@ namespace OhMuhGawwVidjaGames
         private readonly Rectangle gameBoundaries;
         public Boolean gameOver = false;
         public Boolean didThePlayerWin = false; 
+       
 
         public int PlayerScore { get; set; }
         public int ComputerScore { get; set; }
@@ -44,7 +45,7 @@ namespace OhMuhGawwVidjaGames
         public void PlayerWin(SpriteBatch spriteBatch)
         {
             var YouWon = "OhMUHGawww!!!!1!!!! You Won!";
-            var restart = "Press R to (R)estart"; 
+            var restart = "Press R or Touch to (R)estart"; 
             var xPositionYouWon = ((gameBoundaries.Width / 2) - (font.MeasureString(YouWon).X / 2));
             var xPosition2Restart = ((gameBoundaries.Width / 2) - (font.MeasureString(restart).X / 2));
             var PositionYouWon = new Vector2(xPositionYouWon, gameBoundaries.Height / 2);
@@ -56,7 +57,7 @@ namespace OhMuhGawwVidjaGames
         public void ComputerWin(SpriteBatch spriteBatch)
         {
             var Sorry = "Sorry Bruh :( you lost";
-            var restart = "Press R to (R)estart";
+            var restart = "Press R or Touch to (R)estart";
             var xPositionYouWon = ((gameBoundaries.Width / 2) - (font.MeasureString(Sorry).X / 2));
             var xPosition2Restart = ((gameBoundaries.Width / 2) - (font.MeasureString(restart).X / 2));
             var PositionYouWon = new Vector2(xPositionYouWon, gameBoundaries.Height / 2);

@@ -7,9 +7,11 @@ namespace OhMuhGawwVidjaGames
 {
     public abstract class Sprite
     {
-        protected readonly Texture2D _texture;
+        protected /*readonly*/ Texture2D _texture;
         public Vector2 Location;
         protected Rectangle gameBoundaries;
+        protected Vector2 Size; 
+
         public Rectangle boundingBox
         {
             get { return new Rectangle((int)Location.X, (int)Location.Y, Width, Height); }  
