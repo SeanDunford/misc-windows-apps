@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head><link rel="stylesheet" type="text/css" href="description/Combined.css,0:SearchBox,0:ImageSprite;/Areas/Epx/Themes/Metro/Content:0&amp;amp;hashKey=E778FABBB649835AFE4E73BCAC4F643A" xmlns="http://www.w3.org/1999/xhtml" />
+<link rel="stylesheet" type="text/css" href="description/0c70f1a5-c9b0-48a2-babb-7fea86f2b768Combined.css,0:ImageSprite;/Areas/Epx/Themes/Metro/Content:0&amp;amp;hashKey=B88AD897C8197B762EA1BF0238A60A9F" xmlns="http://www.w3.org/1999/xhtml" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Color Copy (Simon Says) Game Sample</title>
+        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" /><link href="description/bf6575dd-face-44a5-bc4a-594dccb60d25Brand.css" type="text/css" rel="Stylesheet" />
+        <link href="description/iframedescription.css" rel="Stylesheet" type="text/css" />
+        <script src="description/offline.js" type="text/javascript"></script>
+        <style type="text/css">
+            #projectInfo {
+                overflow: auto;
+            }
+            #longDesc {
+                clear:both;
+                margin: 25px 0 10px 0;
+            }
+
+            #SampleIndexList{
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+<body>
+    <div id="offlineDescription">
+        <h1>Color Copy (Simon Says) Game Sample</h1>
+        <br/>
+        <div id="projectInfo">
+            <div class="section">
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Technologies">Technologies</label>
+                        <div id="Technologies">
+                            C#, XAML
+                        </div>
+                    </div>
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Topics">Topics</label>
+                        <div id="Topics">
+                            Games
+                        </div>
+                    </div>
+                <div class="itemBarLong">
+                    <label for="Platforms">Platforms</label>
+                    <div id="Platforms">
+                        Windows RT
+                    </div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="Requirements">Requirements</label>
+                    <div id="Requirements">
+                        
+                    </div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Primary Language</label>
+                    <div id="LastUpdated">en-US</div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Last Updated</label>
+                    <div id="LastUpdated">1/3/2013</div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="License">License</label>
+                    <div id="License">
+                        <a href="license.rtf">Apache License, Version 2.0</a></div>
+                </div>
+                <div class="itemBar">
+                    <div class="viewonlinecont">
+                        <a data-link="online" href="http://code.msdn.microsoft.com/windowsapps/Color-Copy-Simon-Says-Game-8ef625bd">View this sample online</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                   
+<script type="text/javascript">
+    function initializePage() {
+        var otherTabClass = 'otherTab';
+        var hiddenPreClass = 'hidden';
+
+        var htmlDecode = function(encodedData) {
+            var decodedData = "";
+            if (encodedData) {
+                var div = document.createElement('div');
+                div.innerHTML = encodedData;
+                decodedData = div.firstChild.nodeValue.replace( /\\r\\n/ig , '\r\n');
+            }
+            return decodedData;
+        };
+                
+        Galleries.iterateElem(Galleries.findElem(null, 'div', 'scriptcode'), function (index, scriptBlock) {
+            var titleElem = Galleries.findElem(scriptBlock, 'div', 'title')[0];
+            var labelElems = Galleries.findElem(titleElem, 'span');
+            if (labelElems.length == 0) {
+                labelElems = titleElem;
+            }
+            var languageSpans = Galleries.findElem(scriptBlock, 'span', 'hidden');
+            var pres = Galleries.findElem(scriptBlock, 'pre');
+            if (languageSpans.length > 0 && pres.length > 1) {
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    var languageSpan = languageSpans[index];
+                            
+                    elem.code = codePre.innerHTML.replace( /(\r(\n)?)|((\r)?\n)/ig , '\\r\\n');
+                            
+                    codePre.className = codePre.className.replace(hiddenPreClass, '');
+                            
+                    languageSpan.parentNode.removeChild(languageSpan);
+                });
+
+                pres = Galleries.findElem(scriptBlock, 'pre');
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    if (index == 0) {
+                        scriptBlock.activeTab = 0;
+                    }
+                    else {
+                        labelSpan.className += otherTabClass;
+                        codePre.className += hiddenPreClass;
+                    }
+                    Galleries.attachEventHandler(labelSpan, 'click', function(e) {
+                        var activeTab = scriptBlock.activeTab;
+                        labelElems[activeTab].className += otherTabClass;
+                        pres[activeTab].className += hiddenPreClass;
+
+                        codePre.className = codePre.className.replace(hiddenPreClass, '');
+                        labelSpan.className = labelSpan.className.replace(otherTabClass, '');
+                        scriptBlock.activeTab = index;
+                    });
+                });
+
+                var preview = Galleries.findElem(scriptBlock, 'div', 'preview');
+                if (preview.length == 0) {
+                    preview.push(pres[pres.length - 1]);
+                }
+                Galleries.iterateElem(preview, function(index, elem) {
+                    elem.parentNode.removeChild(elem);
+                });
+
+                if (window.clipboardData && clipboardData.setData) {
+                    var copyLink = document.createElement('a');
+                    copyLink.href = 'javascript:void(0);';
+                    copyLink.className = 'copyCode';
+                    copyLink.innerHTML = 'Copy Code';
+                    Galleries.attachEventHandler(copyLink, 'click', function (e) {
+                        clipboardData.setData("Text", htmlDecode(labelElems[scriptBlock.activeTab].code));
+                        return false;
+                    });
+                    scriptBlock.insertBefore(copyLink, scriptBlock.childNodes[0]);
+                }
+            }
+        });
+    }
+
+    Galleries.onWindowLoad(function(){
+        initializePage();
+    });
+
+</script>
+<div id="longDesc">
+    
+<h1>Introduction</h1>
+<p>This sample shows how to create the game, Color Copy - a game based off of Simon Says. The object of the game is to copy a sequence of commands (in this case, colors) in the same order to advance in difficulty.&nbsp;</p>
+<p>Some of the more complicated APIs used in this code include the following:</p>
+<ol>
+<li>Storyboard (for animations) - using&nbsp;DoubleAnimationUsingKeyFrames and&nbsp;LinearDoubleKeyFrame
+</li><li>MediaElement (for sounds) </li></ol>
+<p><em>The full source code attached is everything that was <a title="Color Copy" href="http://apps.microsoft.com/windows/en-US/app/color-copy/a5907ee2-1981-4a4f-8910-30f394242aad" >
+submitted and published to the Windows 8 App Marketplace</a> (02JAN2013).</em></p>
+<p><em>Please note that I also left in the icons and logos that I used to publish to Windows 8. Those were included so that you may easily run the code without having to worry about finding proper images before testing the code. Those included images should
+ be changed when making modifications to this code.</em></p>
+<h1><span>Building the Sample</span></h1>
+<p><em>There are no extra files or downloads required in order to build the program and play the game.</em></p>
+<p>Step 1: Download the attached source code.</p>
+<p>Step 2: Open Color Copy in Visual Studios 2012</p>
+<p>Step 3: Run</p>
+<p><span style="font-size:20px; font-weight:bold">Description</span></p>
+<p><em>The code was made to be extensible. There are comments included in code where needed.</em></p>
+<p><em><br>
+</em></p>
+<p><strong>Colors</strong> are given arbitrary numeric values in the MainPage.xaml.cs; It does not matter what the values are. That way, the colors can be changed at anytime in the code or xaml and the game will still run.</p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">const int NUMBER_OF_COLORS = 4;
+const int COLOR_1 = 1;
+const int COLOR_2 = 2;
+const int COLOR_3 = 3;
+const int COLOR_4 = 4;</pre>
+<div class="preview">
+<pre class="js"><span class="js__statement">const</span>&nbsp;int&nbsp;NUMBER_OF_COLORS&nbsp;=&nbsp;<span class="js__num">4</span>;&nbsp;
+<span class="js__statement">const</span>&nbsp;int&nbsp;COLOR_1&nbsp;=&nbsp;<span class="js__num">1</span>;&nbsp;
+<span class="js__statement">const</span>&nbsp;int&nbsp;COLOR_2&nbsp;=&nbsp;<span class="js__num">2</span>;&nbsp;
+<span class="js__statement">const</span>&nbsp;int&nbsp;COLOR_3&nbsp;=&nbsp;<span class="js__num">3</span>;&nbsp;
+<span class="js__statement">const</span>&nbsp;int&nbsp;COLOR_4&nbsp;=&nbsp;<span class="js__num">4</span>;</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode"></div>
+<div class="endscriptcode"></div>
+<div class="endscriptcode">In order to store the correct sequence of colors, there is an int array of size 100. The input for the player's sequence is also stored in the same data structure.</div>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">const int MAX_SEQUENCE_COUNT = 100;
+int[] correctColorSequence = new int[MAX_SEQUENCE_COUNT];
+
+for (int i = 0; i &lt; MAX_SEQUENCE_COUNT; i&#43;&#43;)
+{
+    correctColorSequence[i] = randomNumber.Next(1, NUMBER_OF_COLORS);
+}</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__keyword">const</span>&nbsp;<span class="cs__keyword">int</span>&nbsp;MAX_SEQUENCE_COUNT&nbsp;=&nbsp;<span class="cs__number">100</span>;&nbsp;
+<span class="cs__keyword">int</span>[]&nbsp;correctColorSequence&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;<span class="cs__keyword">int</span>[MAX_SEQUENCE_COUNT];&nbsp;
+&nbsp;
+<span class="cs__keyword">for</span>&nbsp;(<span class="cs__keyword">int</span>&nbsp;i&nbsp;=&nbsp;<span class="cs__number">0</span>;&nbsp;i&nbsp;&lt;&nbsp;MAX_SEQUENCE_COUNT;&nbsp;i&#43;&#43;)&nbsp;
+{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;correctColorSequence[i]&nbsp;=&nbsp;randomNumber.Next(<span class="cs__number">1</span>,&nbsp;NUMBER_OF_COLORS);&nbsp;
+}</pre>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>The Storyboard animation:</p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>XAML</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">xaml</span>
+<pre class="hidden">&lt;Grid.Resources&gt;
+    &lt;Storyboard x:Name=&quot;storyboardRectangle0&quot; Storyboard.TargetName=&quot;rectangle0&quot; Storyboard.TargetProperty=&quot;Opacity&quot; Completed=&quot;storyboardRectangle0Complete&quot;&gt;
+        &lt;DoubleAnimationUsingKeyFrames Duration=&quot;0:0:0.4&quot;&gt;
+            &lt;LinearDoubleKeyFrame Value=&quot;0&quot; KeyTime=&quot;0:0:0&quot; /&gt;
+            &lt;LinearDoubleKeyFrame Value=&quot;2&quot; KeyTime=&quot;0:0:0.18&quot; /&gt;
+            &lt;LinearDoubleKeyFrame Value=&quot;50&quot; KeyTime=&quot;0:0:0.2&quot; /&gt;
+        &lt;/DoubleAnimationUsingKeyFrames&gt;
+    &lt;/Storyboard&gt;
+&lt;/Grid.Resources&gt;</pre>
+<div class="preview">
+<pre class="js">&lt;Grid.Resources&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;Storyboard&nbsp;x:Name=<span class="js__string">&quot;storyboardRectangle0&quot;</span>&nbsp;Storyboard.TargetName=<span class="js__string">&quot;rectangle0&quot;</span>&nbsp;Storyboard.TargetProperty=<span class="js__string">&quot;Opacity&quot;</span>&nbsp;Completed=<span class="js__string">&quot;storyboardRectangle0Complete&quot;</span>&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;DoubleAnimationUsingKeyFrames&nbsp;Duration=<span class="js__string">&quot;0:0:0.4&quot;</span>&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;LinearDoubleKeyFrame&nbsp;Value=<span class="js__string">&quot;0&quot;</span>&nbsp;KeyTime=<span class="js__string">&quot;0:0:0&quot;</span>&nbsp;/&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;LinearDoubleKeyFrame&nbsp;Value=<span class="js__string">&quot;2&quot;</span>&nbsp;KeyTime=<span class="js__string">&quot;0:0:0.18&quot;</span>&nbsp;/&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;LinearDoubleKeyFrame&nbsp;Value=<span class="js__string">&quot;50&quot;</span>&nbsp;KeyTime=<span class="js__string">&quot;0:0:0.2&quot;</span>&nbsp;/&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/DoubleAnimationUsingKeyFrames&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/Storyboard&gt;&nbsp;
+&lt;/Grid.Resources&gt;</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;</div>
+<h1><span>Source Code Files</span></h1>
+<ul>
+<li><em>ColorCopy.zip - Full source code for Color Copy.</em> </li></ul>
+<h1>More Information</h1>
+<p>If you have any questions regarding how to implement or edit this code, feel free to use the Q&amp;A section.</p>
+<p>If you have any suggestion for possibe future code releases, please email me, and I will get back to you as soon as I can.</p>
+
+</div>
+
+
+    </div>
+</body>
+</html>
