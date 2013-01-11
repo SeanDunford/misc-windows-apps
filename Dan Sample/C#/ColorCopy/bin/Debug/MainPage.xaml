@@ -32,23 +32,23 @@
                 <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{StaticResource AppName}" Style="{StaticResource PageHeaderTextStyle}"/>
             </Grid>-->
             <Grid x:Name="color0" Grid.Row="0" Grid.Column="0">
-                <Rectangle x:ConnectionId='9' x:Name="rectangle0" Fill="Red" Width="auto" Height="auto" Opacity="30"                           />
+                <Rectangle x:ConnectionId='9' x:Name="rectangle0" Fill="Purple" Width="auto" Height="auto" Opacity="30"                           />
             </Grid>
             <Grid x:Name="color1" Grid.Row="0" Grid.Column="1">
-                <Rectangle x:ConnectionId='8' x:Name="rectangle1" Fill="Green" Width="auto" Height="auto" Opacity="30"                           />
+                <Rectangle x:ConnectionId='8' x:Name="rectangle1" Fill="Yellow" Width="auto" Height="auto" Opacity="30"                           />
             </Grid>
             <Grid x:Name="color2" Grid.Row="1" Grid.Column="0">
-                <Rectangle x:ConnectionId='7' x:Name="rectangle2" Fill="Blue" Width="auto" Height="auto" Opacity="30"                           />
+                <Rectangle x:ConnectionId='7' x:Name="rectangle2" Fill="OrangeRed" Width="auto" Height="auto" Opacity="30"                           />
             </Grid>
             <Grid x:Name="color3" Grid.Row="1" Grid.Column="1">
-                <Rectangle x:ConnectionId='6' x:Name="rectangle3" Fill="Yellow" Width="auto" Height="auto" Opacity="30"                           />
+                <Rectangle x:ConnectionId='6' x:Name="rectangle3" Fill="Blue" Width="auto" Height="auto" Opacity="30"                           />
             </Grid>
         </Grid> <!-- END: Grid.viewFull-->
 
         <Grid x:Name="viewFull2">
-            <Ellipse x:ConnectionId='1' Fill="Purple" HorizontalAlignment="Center" VerticalAlignment="Center" Height="200" Width="200"                                />
-            <TextBlock x:ConnectionId='2' x:Name="textBlockRoundNumber" Text="0" Height="auto" Width="auto" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="169" TextWrapping="Wrap"                                 />
-            <TextBlock x:ConnectionId='3' x:Name="textBlockCenter" Text="Click to begin!" Height="auto" Width="180" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="38" TextWrapping="Wrap"                                 />
+            <Ellipse x:ConnectionId='1' Fill="Green" HorizontalAlignment="Center" VerticalAlignment="Center" Height="200" Width="200"                                />
+            <TextBlock x:ConnectionId='2' x:Name="textBlockRoundNumber" FontFamily="Georgia" Text="0" Height="auto" Width="auto" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="169" TextWrapping="Wrap"                                 />
+            <TextBlock x:ConnectionId='3' x:Name="textBlockCenter" FontFamily="Georgia" Text="Click Here!" Height="auto" Width="180" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="38" TextWrapping="Wrap"                                 />
 
             <MediaElement x:ConnectionId='4' x:Name="audioShinyDing" Source="Assets/shiny-ding.mp3" Width="0" Height="0"                                        Volume="0"/>
             <MediaElement x:ConnectionId='5' x:Name="audioApplause" Source="Assets/applause-large-crowd.mp3" Width="0" Height="0"                                       Volume="0"/>

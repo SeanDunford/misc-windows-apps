@@ -32,23 +32,23 @@
                 <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{StaticResource AppName}" Style="{StaticResource PageHeaderTextStyle}"/>
             </Grid>-->
             <Grid x:Name="color0" Grid.Row="0" Grid.Column="0">
-                <Rectangle x:Name="rectangle0" Fill="Red" Width="auto" Height="auto" Opacity="30" Tapped="rectangle0_Tapped"/>
+                <Rectangle x:Name="rectangle0" Fill="Purple" Width="auto" Height="auto" Opacity="30" Tapped="rectangle0_Tapped"/>
             </Grid>
             <Grid x:Name="color1" Grid.Row="0" Grid.Column="1">
-                <Rectangle x:Name="rectangle1" Fill="Green" Width="auto" Height="auto" Opacity="30" Tapped="rectangle1_Tapped"/>
+                <Rectangle x:Name="rectangle1" Fill="Yellow" Width="auto" Height="auto" Opacity="30" Tapped="rectangle1_Tapped"/>
             </Grid>
             <Grid x:Name="color2" Grid.Row="1" Grid.Column="0">
-                <Rectangle x:Name="rectangle2" Fill="Blue" Width="auto" Height="auto" Opacity="30" Tapped="rectangle2_Tapped"/>
+                <Rectangle x:Name="rectangle2" Fill="OrangeRed" Width="auto" Height="auto" Opacity="30" Tapped="rectangle2_Tapped"/>
             </Grid>
             <Grid x:Name="color3" Grid.Row="1" Grid.Column="1">
-                <Rectangle x:Name="rectangle3" Fill="Yellow" Width="auto" Height="auto" Opacity="30" Tapped="rectangle3_Tapped"/>
+                <Rectangle x:Name="rectangle3" Fill="Blue" Width="auto" Height="auto" Opacity="30" Tapped="rectangle3_Tapped"/>
             </Grid>
         </Grid> <!-- END: Grid.viewFull-->
 
         <Grid x:Name="viewFull2">
-            <Ellipse Fill="Purple" HorizontalAlignment="Center" VerticalAlignment="Center" Height="200" Width="200" Tapped="Tapped_TextBlockCenter"/>
-            <TextBlock x:Name="textBlockRoundNumber" Text="0" Height="auto" Width="auto" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="169" TextWrapping="Wrap" Tapped="Tapped_TextBlockCenter" />
-            <TextBlock x:Name="textBlockCenter" Text="Click to begin!" Height="auto" Width="180" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="38" TextWrapping="Wrap" Tapped="Tapped_TextBlockCenter" />
+            <Ellipse Fill="Green" HorizontalAlignment="Center" VerticalAlignment="Center" Height="200" Width="200" Tapped="Tapped_TextBlockCenter"/>
+            <TextBlock x:Name="textBlockRoundNumber" FontFamily="Georgia" Text="0" Height="auto" Width="auto" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="169" TextWrapping="Wrap" Tapped="Tapped_TextBlockCenter" />
+            <TextBlock x:Name="textBlockCenter" FontFamily="Georgia" Text="Click Here!" Height="auto" Width="180" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="38" TextWrapping="Wrap" Tapped="Tapped_TextBlockCenter" />
 
             <MediaElement x:Name="audioShinyDing" Source="Assets/shiny-ding.mp3" Width="0" Height="0" MediaEnded="audioShinyDing_MediaEnded" Volume="0"/>
             <MediaElement x:Name="audioApplause" Source="Assets/applause-large-crowd.mp3" Width="0" Height="0" MediaEnded="audioApplause_MediaEnded" Volume="0"/>

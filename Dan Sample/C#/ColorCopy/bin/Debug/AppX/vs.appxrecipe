@@ -5,7 +5,7 @@
     <WindowsUser>Sean</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>6150EA59C7B7900E6F8644013491D2EE691319037EAC39C1E5C74301327C70DC</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7165A90003DB70324A06AE7F73F0814A423B47D316318BCFBFA78904014C328C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>11282SimplyAdvanced.ColorCopy_1.0.0.0_neutral__1zsx0rfr60t8w</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>11282SimplyAdvanced.ColorCopy_1zsx0rfr60t8w!App</RegisteredUserModeAppID>
     <RegisteredPackageID>11282SimplyAdvanced.ColorCopy</RegisteredPackageID>
@@ -16,17 +16,17 @@
     <AppXManifest Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-11T16:26:43.476</Modified>
+      <Modified>2013-01-12T23:38:22.531</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.exe">
       <PackagePath>ColorCopy.exe</PackagePath>
-      <Modified>2013-01-11T16:26:42.192</Modified>
+      <Modified>2013-01-12T01:27:37.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.pdb">
       <PackagePath>ColorCopy.pdb</PackagePath>
-      <Modified>2013-01-11T16:26:42.135</Modified>
+      <Modified>2013-01-12T01:27:37.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\applause-large-crowd.mp3">
       <PackagePath>Assets\applause-large-crowd.mp3</PackagePath>
@@ -55,22 +55,27 @@
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-04T00:29:10.631</Modified>
+      <Modified>2013-01-12T01:10:16.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-04T00:29:10.631</Modified>
+      <Modified>2013-01-12T01:10:55.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-04T00:29:10.631</Modified>
+      <Modified>2013-01-12T01:26:38.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-12T01:26:38.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-04T00:29:10.631</Modified>
+      <Modified>2013-01-12T01:11:45.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
@@ -86,11 +91,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-01-04T00:29:10.663</Modified>
+      <Modified>2013-01-12T00:51:44.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-01-11T16:26:42.747</Modified>
+      <Modified>2013-01-12T01:28:27.354</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

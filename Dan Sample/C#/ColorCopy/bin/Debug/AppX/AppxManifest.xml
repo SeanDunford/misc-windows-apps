@@ -21,8 +21,8 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="ColorCopy.exe" EntryPoint="ColorCopy.App">
-      <VisualElements DisplayName="Color Copy" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Color Copy - A memorize-the-pattern game. Repeat after the computer. Difficulty gets harder every round." ForegroundText="light" BackgroundColor="#464646">
+    <Application Id="App" Executable="ColorCopy.exe" EntryPoint="MemoryMaker.App">
+      <VisualElements DisplayName="Memory Maker" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Color Copy - A memorize-the-pattern game. Repeat after the computer. Difficulty gets harder every round." ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>
