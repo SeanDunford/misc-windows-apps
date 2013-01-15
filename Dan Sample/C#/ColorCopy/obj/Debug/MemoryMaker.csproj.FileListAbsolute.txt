@@ -2,7 +2,6 @@ Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.exe
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.pdb
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\resources.pri
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\AppxManifest.xml
-Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\MemoryMaker.build.appxrecipe
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\App.g.i.cs
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\App.g.cs
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\Common\StandardStyles.g.i.cs
@@ -21,3 +20,4 @@ Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\resources.res
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\pri.resfiles
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\LanguageQualifiers.txt
 Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\obj\Debug\ProjectArchitectures.txt
+Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\MemoryMaker.build.appxrecipe

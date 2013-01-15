@@ -41,8 +41,8 @@ namespace ColorCopy
         const int COLOR_2 = 2;
         const int COLOR_3 = 3;
         const int COLOR_4 = 4;
-        const int MAX_SEQUENCE_COUNT = 100; // TODO: Make 100 for release version
-        const String CLICK_TO_BEGIN = "Click to begin!";
+        const int MAX_SEQUENCE_COUNT = 20; // TODO: Make 100 for release version
+        const String CLICK_TO_BEGIN = "Click Here!";
         const String YOU_WIN = "YOU WIN!";
 
         int currentLengthOfSequence = 0;
@@ -82,7 +82,7 @@ namespace ColorCopy
             if (isPlayerTurn)
             {
                 storyboardRectangle0Player.Begin();
-                audioPiano12.Volume = 0.5;
+                audioPiano12.Volume = 1.0;
                 audioPiano12.Play();
 
                 if (isGameStarted)
@@ -98,7 +98,7 @@ namespace ColorCopy
             if (isPlayerTurn)
             {
                 storyboardRectangle1Player.Begin();
-                audioPiano16.Volume = 0.5;
+                audioPiano16.Volume = 1.0;
                 audioPiano16.Play();
 
                 if (isGameStarted)
@@ -114,7 +114,7 @@ namespace ColorCopy
             if (isPlayerTurn)
             {
                 storyboardRectangle2Player.Begin();
-                audioPiano19.Volume = 0.5;
+                audioPiano19.Volume = 1.0;
                 audioPiano19.Play();
 
                 if (isGameStarted)
@@ -130,7 +130,7 @@ namespace ColorCopy
             if (isPlayerTurn)
             {
                 storyboardRectangle3Player.Begin();
-                audioPiano114.Volume = 0.5;
+                audioPiano114.Volume = 1.0;
                 audioPiano114.Play();
 
                 if (isGameStarted)
@@ -199,13 +199,13 @@ namespace ColorCopy
                     currentLengthOfSequence++;
                     if (currentLengthOfSequence < MAX_SEQUENCE_COUNT)
                     {
-                        audioShinyDing.Volume = 0.5;
+                        audioShinyDing.Volume = 1.0;
                         audioShinyDing.Play();
                         textBlockRoundNumber.Text = currentLengthOfSequence.ToString();
                     }
                     else // roundNumber == MAX_SEQUENCE_COUNT
                     {
-                        audioApplause.Volume = 0.5;
+                        audioApplause.Volume = 1.0;
                         audioApplause.Play();
                         endGame(YOU_WIN);
                     }
@@ -323,7 +323,7 @@ namespace ColorCopy
         {
                 if (correctColorSequence[correctColorSequenceIndex] == 1)
                 {
-                    audioPiano12.Volume = 0.5;
+                    audioPiano12.Volume = 1.0;
                     audioPiano12.Play();
                     storyboardRectangle0.Begin();
                     isDoingAnimation = true;
@@ -338,7 +338,7 @@ namespace ColorCopy
                 else if (correctColorSequence[correctColorSequenceIndex] == 3)
                 {
                     storyboardRectangle2.Begin();
-                    audioPiano19.Volume = 0.5;
+                    audioPiano19.Volume = 1.0;
                     audioPiano19.Play();
                     isDoingAnimation = true;
                 }

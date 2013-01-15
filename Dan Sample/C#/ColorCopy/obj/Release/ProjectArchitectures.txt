@@ -1,1 +1,1 @@
-E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\ColorCopy.csproj;neutral
+Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\MemoryMaker.csproj;neutral
