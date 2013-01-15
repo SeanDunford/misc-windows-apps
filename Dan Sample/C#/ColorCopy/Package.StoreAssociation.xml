@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StoreAssociation xmlns="http://schemas.microsoft.com/appx/2010/storeassociation">
-  <Publisher>CN=A76D225B-FC63-49EC-B43E-59C8DF48368A</Publisher>
-  <NamespacePrefix>11282SimplyAdvanced</NamespacePrefix>
-  <PublisherDisplayName>Simply Advanced</PublisherDisplayName>
+  <Publisher>CN=B5769CF2-7EBD-4609-A847-2091A447EABB</Publisher>
+  <NamespacePrefix>22441SeanDunford</NamespacePrefix>
+  <PublisherDisplayName>Sean_Dunford</PublisherDisplayName>
   <GeneratePackageHash>http://www.w3.org/2001/04/xmlenc#sha256</GeneratePackageHash>
   <SupportedLocales>
     <Language Code="af" InMinimumRequirementSet="false" />
@@ -337,16 +337,13 @@
     <Language Code="zu-za" InMinimumRequirementSet="false" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>11282SimplyAdvanced.ColorCopy</MainPackageIdentityName>
+    <MainPackageIdentityName>22441SeanDunford.MemoryMaker</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>Color Copy</ReservedName>
+      <ReservedName>Memory Maker</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
-    <MainPackageIdentityName>11282SimplyAdvanced.DotDash</MainPackageIdentityName>
-    <MainPackageIdentityName>11282SimplyAdvanced.SimplyAdvanced</MainPackageIdentityName>
-    <MainPackageIdentityName>11282SimplyAdvanced.SimplyAdvancedBasesConverter</MainPackageIdentityName>
-    <MainPackageIdentityName>11282SimplyAdvanced.SimplyAdvancedTimeTile</MainPackageIdentityName>
+    <MainPackageIdentityName>22441SeanDunford.MayanPong</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/a5907ee2-1981-4a4f-8910-30f394242aad" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/7b8e5147-51c0-4d04-8aba-ef5af2803393" />
 </StoreAssociation>

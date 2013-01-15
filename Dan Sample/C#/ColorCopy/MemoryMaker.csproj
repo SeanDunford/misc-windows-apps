@@ -125,17 +125,18 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\applause-large-crowd.mp3" />
+    <Content Include="Assets\BadgeLogo.scale-100.png" />
+    <Content Include="Assets\beep.mp3" />
+    <Content Include="Assets\dululu.mp3" />
     <Content Include="Assets\Logo.png" />
-    <Content Include="Assets\Piano114.mp3" />
-    <Content Include="Assets\Piano12.mp3" />
-    <Content Include="Assets\Piano16.mp3" />
-    <Content Include="Assets\Piano19.mp3" />
-    <Content Include="Assets\shiny-ding.mp3" />
+    <Content Include="Assets\quack.mp3" />
+    <Content Include="Assets\shashashaw.mp3" />
     <Content Include="Assets\SmallLogo.png" />
     <Content Include="Assets\SplashScreen.png" />
-    <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\WideLogo.scale-80.png" />
+    <Content Include="Assets\woo.mp3" />
+    <Content Include="Assets\yaDunGud.mp3" />
     <Content Include="Common\ReadMe.txt" />
     <None Include="Package.StoreAssociation.xml" />
   </ItemGroup>

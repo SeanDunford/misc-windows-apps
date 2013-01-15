@@ -13,13 +13,13 @@ namespace ColorCopy
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-        private global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        private global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider _provider;
 
         public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(global::System.Type type)
         {
             if(_provider == null)
             {
-                _provider = new global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByType(type);
         }
@@ -28,7 +28,7 @@ namespace ColorCopy
         {
             if(_provider == null)
             {
-                _provider = new global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider();
+                _provider = new global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider();
             }
             return _provider.GetXamlTypeByName(fullName);
         }
@@ -40,7 +40,7 @@ namespace ColorCopy
     }
 }
 
-namespace ColorCopy.ColorCopy_XamlTypeInfo
+namespace ColorCopy.MemoryMaker_XamlTypeInfo
 {
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks", "4.0.0.0")]    
@@ -117,21 +117,21 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(string typeName)
         {
-            global::ColorCopy.ColorCopy_XamlTypeInfo.XamlSystemBaseType xamlType = null;
-            global::ColorCopy.ColorCopy_XamlTypeInfo.XamlUserType userType;
+            global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlSystemBaseType xamlType = null;
+            global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlUserType userType;
 
             switch (typeName)
             {
             case "Windows.UI.Xaml.Controls.Page":
-                xamlType = new global::ColorCopy.ColorCopy_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.Page));
+                xamlType = new global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.Page));
                 break;
 
             case "Windows.UI.Xaml.Controls.UserControl":
-                xamlType = new global::ColorCopy.ColorCopy_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
+                xamlType = new global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
                 break;
 
             case "ColorCopy.MainPage":
-                userType = new global::ColorCopy.ColorCopy_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ColorCopy.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType = new global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ColorCopy.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_0_MainPage;
                 xamlType = userType;
                 break;
@@ -144,7 +144,7 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
-            global::ColorCopy.ColorCopy_XamlTypeInfo.XamlMember xamlMember = null;
+            global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlMember xamlMember = null;
             // No Local Properties
             return xamlMember;
         }
@@ -200,9 +200,9 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks", "4.0.0.0")]    
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    internal class XamlUserType : global::ColorCopy.ColorCopy_XamlTypeInfo.XamlSystemBaseType
+    internal class XamlUserType : global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlSystemBaseType
     {
-        global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider _provider;
         global::Windows.UI.Xaml.Markup.IXamlType _baseType;
         bool _isArray;
         bool _isMarkupExtension;
@@ -214,7 +214,7 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
         global::System.Collections.Generic.Dictionary<string, string> _memberNames;
         global::System.Collections.Generic.Dictionary<string, object> _enumValues;
 
-        public XamlUserType(global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
+        public XamlUserType(global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, global::Windows.UI.Xaml.Markup.IXamlType baseType)
             :base(fullName, fullType)
         {
             _provider = provider;
@@ -395,7 +395,7 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlMember : global::Windows.UI.Xaml.Markup.IXamlMember
     {
-        global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider _provider;
         string _name;
         bool _isAttachable;
         bool _isDependencyProperty;
@@ -404,7 +404,7 @@ namespace ColorCopy.ColorCopy_XamlTypeInfo
         string _typeName;
         string _targetTypeName;
 
-        public XamlMember(global::ColorCopy.ColorCopy_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
+        public XamlMember(global::ColorCopy.MemoryMaker_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
         {
             _name = name;
             _typeName = typeName;

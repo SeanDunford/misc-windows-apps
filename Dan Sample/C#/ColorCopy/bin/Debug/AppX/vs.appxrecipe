@@ -5,52 +5,32 @@
     <WindowsUser>Sean</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>7165A90003DB70324A06AE7F73F0814A423B47D316318BCFBFA78904014C328C</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>11282SimplyAdvanced.ColorCopy_1.0.0.0_neutral__1zsx0rfr60t8w</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>11282SimplyAdvanced.ColorCopy_1zsx0rfr60t8w!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>11282SimplyAdvanced.ColorCopy</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=A76D225B-FC63-49EC-B43E-59C8DF48368A</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>2328CD4382FF985DA12559C7D735E33BBF1498F76B7C79CF2E9847BB70CA3657</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>22441SeanDunford.MemoryMaker_1.0.0.3_neutral__6ka7x81c7dbr4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>22441SeanDunford.MemoryMaker_6ka7x81c7dbr4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>22441SeanDunford.MemoryMaker</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=B5769CF2-7EBD-4609-A847-2091A447EABB</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.3</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-12T23:38:22.531</Modified>
+      <Modified>2013-01-15T22:53:57.198</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.exe">
       <PackagePath>ColorCopy.exe</PackagePath>
-      <Modified>2013-01-12T01:27:37.256</Modified>
+      <Modified>2013-01-15T22:53:57.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.pdb">
       <PackagePath>ColorCopy.pdb</PackagePath>
-      <Modified>2013-01-12T01:27:37.212</Modified>
+      <Modified>2013-01-15T22:53:57.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\applause-large-crowd.mp3">
-      <PackagePath>Assets\applause-large-crowd.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano114.mp3">
-      <PackagePath>Assets\Piano114.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano12.mp3">
-      <PackagePath>Assets\Piano12.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano16.mp3">
-      <PackagePath>Assets\Piano16.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano19.mp3">
-      <PackagePath>Assets\Piano19.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\shiny-ding.mp3">
-      <PackagePath>Assets\shiny-ding.mp3</PackagePath>
-      <Modified>2013-01-04T00:29:10.631</Modified>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2013-01-15T22:39:12.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -67,15 +47,39 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-12T01:26:38.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\SplashScreen.scale-100.png">
-      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-12T01:26:38.164</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-12T01:11:45.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\WideLogo.scale-80.png">
+      <PackagePath>Assets\WideLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T22:41:49.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\beep.mp3">
+      <PackagePath>Assets\beep.mp3</PackagePath>
+      <Modified>2013-01-15T21:54:04.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\dululu.mp3">
+      <PackagePath>Assets\dululu.mp3</PackagePath>
+      <Modified>2013-01-15T21:54:04.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\quack.mp3">
+      <PackagePath>Assets\quack.mp3</PackagePath>
+      <Modified>2013-01-15T21:51:02.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\shashashaw.mp3">
+      <PackagePath>Assets\shashashaw.mp3</PackagePath>
+      <Modified>2013-01-15T21:51:02.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\woo.mp3">
+      <PackagePath>Assets\woo.mp3</PackagePath>
+      <Modified>2013-01-15T21:58:52.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\yaDunGud.mp3">
+      <PackagePath>Assets\yaDunGud.mp3</PackagePath>
+      <Modified>2013-01-15T22:09:06.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
@@ -91,11 +95,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-01-12T00:51:44.441</Modified>
+      <Modified>2013-01-15T22:09:38.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-01-12T01:28:27.354</Modified>
+      <Modified>2013-01-15T22:53:02.150</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

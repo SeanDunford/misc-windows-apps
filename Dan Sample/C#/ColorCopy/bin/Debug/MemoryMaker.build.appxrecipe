@@ -19,23 +19,8 @@
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\bin\Debug\ColorCopy.pdb">
       <PackagePath>ColorCopy.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\applause-large-crowd.mp3">
-      <PackagePath>Assets\applause-large-crowd.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano114.mp3">
-      <PackagePath>Assets\Piano114.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano12.mp3">
-      <PackagePath>Assets\Piano12.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano16.mp3">
-      <PackagePath>Assets\Piano16.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Piano19.mp3">
-      <PackagePath>Assets\Piano19.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\shiny-ding.mp3">
-      <PackagePath>Assets\shiny-ding.mp3</PackagePath>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -49,13 +34,31 @@
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\SplashScreen.scale-100.png">
-      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\WideLogo.scale-80.png">
+      <PackagePath>Assets\WideLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\beep.mp3">
+      <PackagePath>Assets\beep.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\dululu.mp3">
+      <PackagePath>Assets\dululu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\quack.mp3">
+      <PackagePath>Assets\quack.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\shashashaw.mp3">
+      <PackagePath>Assets\shashashaw.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\woo.mp3">
+      <PackagePath>Assets\woo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Assets\yaDunGud.mp3">
+      <PackagePath>Assets\yaDunGud.mp3</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>

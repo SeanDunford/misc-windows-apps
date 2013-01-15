@@ -1,1 +1,1 @@
-E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\AppPackages\ColorCopy_1.0.0.0_AnyCPU_Test\ColorCopy_1.0.0.0_AnyCPU.appx
+Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\AppPackages\MemoryMaker_1.0.0.4_AnyCPU_Test\MemoryMaker_1.0.0.4_AnyCPU.appx
