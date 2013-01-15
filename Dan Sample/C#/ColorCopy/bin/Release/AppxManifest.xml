@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="22441SeanDunford.MemoryMaker" Publisher="CN=B5769CF2-7EBD-4609-A847-2091A447EABB" Version="1.0.0.4" ProcessorArchitecture="neutral" />
+  <Identity Name="22441SeanDunford.MemoryMaker" Publisher="CN=B5769CF2-7EBD-4609-A847-2091A447EABB" Version="1.0.0.5" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>Memory Maker</DisplayName>
     <PublisherDisplayName>Sean_Dunford</PublisherDisplayName>
