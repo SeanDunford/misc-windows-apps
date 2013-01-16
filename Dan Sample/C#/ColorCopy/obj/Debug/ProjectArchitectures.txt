@@ -1,1 +1,0 @@
-Z:\GitProjects\misc-windows-apps\Dan Sample\C#\ColorCopy\MemoryMaker.csproj;neutral
