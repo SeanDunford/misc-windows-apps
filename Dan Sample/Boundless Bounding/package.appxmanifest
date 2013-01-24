@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="72304ec7-14c8-48ec-b84e-60e06d20cd2c" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Boundless Bounding</DisplayName>
+    <Description>Infinite jumping game</Description>
+    <PublisherDisplayName>Simply Advanced</PublisherDisplayName>
+    <Logo>app-storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <VisualElements DisplayName="Boundless Bounding" Logo="app-logo.png" SmallLogo="app-smalllogo.png" Description="Infinite jumping game" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+	
+  </Capabilities>
+</Package>
