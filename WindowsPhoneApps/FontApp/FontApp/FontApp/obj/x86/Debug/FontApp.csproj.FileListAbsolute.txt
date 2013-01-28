@@ -1,7 +1,0 @@
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\bin\x86\Debug\Content\SpriteFont1.xnb
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\bin\x86\Debug\FontApp.exe
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\bin\x86\Debug\FontApp.pdb
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\obj\x86\Debug\FontApp.csprojResolveAssemblyReference.cache
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\obj\x86\Debug\FontApp.exe
-Z:\GitProjects\WindowsPhoneApps\FontApp\FontApp\FontApp\obj\x86\Debug\FontApp.pdb
