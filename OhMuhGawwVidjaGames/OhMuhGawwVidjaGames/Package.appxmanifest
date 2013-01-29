@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="22441SeanDunford.MayanPong" Publisher="CN=B5769CF2-7EBD-4609-A847-2091A447EABB" Version="1.1.1.18" />
+  <Identity Name="22441SeanDunford.MayanPong" Publisher="CN=B5769CF27EBD4609A8472091A447EABB" Version="1.1.1.18" />
+  
   <Properties>
     <DisplayName>Mayan Pong</DisplayName>
     <PublisherDisplayName>Sean_Dunford</PublisherDisplayName>

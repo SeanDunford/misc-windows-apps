@@ -22,9 +22,10 @@ namespace OhMuhGawwVidjaGames
      {
         
      }
-     public void Draw(SpriteBatch spritebatch)
-     {
-         spritebatch.Draw(_texture, Location, Color.White);
-     }
+     //public void Draw(SpriteBatch spritebatch)
+     //{
+     //    spritebatch.Draw(_texture, Location, Color.White);
+     //    base.Draw(spritebatch); 
+     //}
     }
 }

@@ -9,11 +9,11 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OhMuhGawwVidjaGames</RootNamespace>
     <AssemblyName>OhMuhGawwVidjaGames</AssemblyName>
-    <DefaultLanguage>en-US</DefaultLanguage>
+    <DefaultLanguage>en</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>OhMuhGawwVidjaGames_StoreKey.pfx</PackageCertificateKeyFile>
-    <PackageCertificateThumbprint>CD54219E1F4538C6EFD28BA6359209A0C0C16CB3</PackageCertificateThumbprint>
+    <PackageCertificateKeyFile>OhMuhGawwVidjaGames_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>0E983526E4E5BDF43F4BAE9F615D7EF620613B79</PackageCertificateThumbprint>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -144,7 +144,6 @@
     </AppxManifest>
     <None Include="ClassDiagram1.cd" />
     <None Include="OhMuhGawwVidjaGames_StoreKey.pfx" />
-    <None Include="Package.StoreAssociation.xml" />
     <None Include="OhMuhGawwVidjaGames_TemporaryKey.pfx" />
     <Content Include="Content\620300SPLASH.png" />
     <Content Include="Content\font.xnb">
